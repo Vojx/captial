@@ -1,0 +1,32 @@
+.mCenter{
+    margin: 0 auto;
+}
+.wrap{
+    padding-top: 40px;
+}
+.wrap h2{
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 50px;
+}
+.wrap .itemIntro{
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-style: italic;
+    font-size: 14px;
+}
+.wrap img{
+    width: 400px;
+    height: 390px;
+    border: 1px solid #666;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.wrap .des{
+    margin-bottom: 30px;
+}
+.wrap .link{
+    margin-bottom: 40px;
+}
+.wrap .link a:hover{
+    text-decoration: underline;
+}
